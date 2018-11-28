@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Elixir-App</string>
+    <string name="main_title">ELIXIR</string>
+    <string name="spinner">Choose a Drink</string>
+    <string name="main_random">Random Drink</string>
+    <string name="add_drinks">Add Drinks</string>
+    <string name="your_bar">Your Bar</string>
+    <string name="vodka">Vodka</string>
+    <string name="rum">Rum</string>
+    <string name="orange_juice">Orange Juice</string>
+    <string name="whiskey">Whiskey</string>
+    <string name="sour_mix">Sour Mix</string>
+    <string name="coca_cola">Coca Cola</string>
+    <string name="update_database">Update Database</string>
+    <string name="add_new_drink">Add New Drink</string>
+    <string-array name="spinner_values">
+        <item>Choose Your Drink</item>
+        <item>Margarita</item>
+        <item>Moscow Mule</item>
+        <item>Bloody Mary</item>
+        <item>Old Fashioned</item>
+        <item>Manhattan</item>
+    </string-array>
+</resources>
